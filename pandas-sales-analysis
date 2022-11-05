@@ -55,14 +55,18 @@
                       <h1 class="ds-work-det-title">Pandas Sales Analysis</h1>
                       <span class="ds-work-det-dep">Personal Project 2022</span>
                   </header>
-                  <figure><img src="assets/images/statspython.png"></figure>
+                  <figure><img src="assets/images/Pandas Sales Analysis/Report_Intro.png"></figure>
                   <div class="ds-work-content-sec">
                       <div class="row justify-content-center">
                           <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
                               <p>In this ..</p>
                               <div class="ds-button-sec text-center">
-                                <a href="Reports/Pandas Sales Analysis.pdf" target="_blank" class="ds-button">Download Jupyter Notebook</a>
+                                <a href="Reports/Pandas Sales Analysis.pdf" target="_blank" class="ds-button">Download this Jupyter Notebook</a>
                             </div>
+                            <p>In this ..</p>
+                            <div class="ds-button-sec text-center">
+                              <a href="https://github.com/mitzu-93/sales-anal" target="_blank" class="ds-button">Check out the repo</a>
+                          </div>
                           </div>
                       </div>
                   </div>
@@ -75,7 +79,7 @@
    <div class="ds-skills-section">
     <div class="container">
       <div class="row">
-        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
            <h2 class="ds-heading">Technologies used</h2>
            <ul class="ds-skills-list">
              <li>Python</li>
@@ -85,12 +89,6 @@
              <li>Version Control</li>
              <li>Linux</li>
            </ul>
-        </div>
-        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-          <h2 class="ds-heading">Github Repo</h2>
-          <div class="ds-button-sec text-center">
-            <a href="https://github.com/mitzu-93/sales-anal" target="_blank" class="ds-button">Check out the repo</a>
-        </div>
         </div>
       </div>
     </div>
