@@ -59,11 +59,14 @@
                   <div class="ds-work-content-sec">
                       <div class="row justify-content-center">
                           <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
-                              <p>In this ..</p>
+                              <p>In this project I analysed a data set whilst watching a guided walthrough.
+                              </p>
                               <div class="ds-button-sec text-center">
                                 <a href="Reports/Pandas Sales Analysis.pdf" target="_blank" class="ds-button">Download this Jupyter Notebook</a>
                             </div>
-                            <p>In this ..</p>
+                            <p>I then supplemented my undertstanding of the topic by using a different dataset 
+                              to reinforce what I had learned.
+                            </p>
                             <div class="ds-button-sec text-center">
                               <a href="https://github.com/mitzu-93/sales-anal" target="_blank" class="ds-button">Check out the repo</a>
                           </div>
