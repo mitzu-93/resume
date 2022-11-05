@@ -61,7 +61,7 @@
                           <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
                               <p>In this ..</p>
                               <div class="ds-button-sec text-center">
-                                <a href="Reports/Pandas Sales Analysis.ipynb" target="_blank" class="ds-button">Download Jupyter Notebook</a>
+                                <a href="Reports/Pandas Sales Analysis.pdf" target="_blank" class="ds-button">Download Jupyter Notebook</a>
                             </div>
                           </div>
                       </div>
@@ -71,6 +71,31 @@
         </div>
      </div>
    </main>
+
+   <div class="ds-skills-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+           <h2 class="ds-heading">Technologies used</h2>
+           <ul class="ds-skills-list">
+             <li>Python</li>
+             <li>Pandas</li>
+             <li>Matplotlib</li>
+             <li>Jupyter Notebook</li>
+             <li>Version Control</li>
+             <li>Linux</li>
+           </ul>
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+          <h2 class="ds-heading">Github Repo</h2>
+          <div class="ds-button-sec text-center">
+            <a href="https://github.com/mitzu-93/sales-anal" target="_blank" class="ds-button">Check out the repo</a>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--  Skills -->
 
    <!--  footer -->
    <footer class="ds-footer text-center">
