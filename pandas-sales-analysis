@@ -64,7 +64,7 @@
                               <div class="ds-button-sec text-center">
                                 <a href="Reports/Pandas Sales Analysis.pdf" target="_blank" class="ds-button">Download this Jupyter Notebook</a>
                             </div>
-                            <br>
+                            <p></p>
                             <p>I then supplemented my undertstanding of the topic by using a different dataset 
                               to reinforce what I had learned.
                             </p>
